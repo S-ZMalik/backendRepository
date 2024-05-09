@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "this is mega project of backend",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "run start dev"
+    "test": "run start dev",
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "shamaz",
     "malik"
   ],
   "author": "Malik",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
