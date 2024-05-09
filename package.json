@@ -1,0 +1,15 @@
+{
+  "name": "megayoutube",
+  "version": "1.0.0",
+  "description": "this is mega project of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "run start dev"
+  },
+  "keywords": [
+    "shamaz",
+    "malik"
+  ],
+  "author": "Malik",
+  "license": "ISC"
+}
